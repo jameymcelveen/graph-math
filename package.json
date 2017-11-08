@@ -1,0 +1,16 @@
+{
+  "name": "graph-math",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "node ./build.js",
+    "test": "echo \"Not test as of yet\""
+  },
+  "keywords": [],
+  "author": "Jamey McElveen <jamey@mcelveen.us> (http://jameymcelveen.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "jake": "^8.0.15"
+  }
+}
